@@ -75,7 +75,7 @@
   }
   
   .scroll-circle-inner {
-    @apply w-2 h-2 bg-hf-copper rounded-full animate-pulse-subtle;
+    @apply w-2 h-2 bg-hf-copper rounded-full animate-pulse;
   }
 
   .vertical-timeline::before {
